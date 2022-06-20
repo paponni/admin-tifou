@@ -164,7 +164,6 @@ pyrsistent==0.18.1
 pyserial==3.5
 PySocks==1.7.1
 pytest==7.1.2
-python-apt==2.0.0+ubuntu0.20.4.7
 python-dateutil==2.8.2
 python-debian===0.1.36ubuntu1
 python-dotenv==0.20.0
