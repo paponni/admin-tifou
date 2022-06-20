@@ -165,7 +165,6 @@ pyserial==3.5
 PySocks==1.7.1
 pytest==7.1.2
 python-dateutil==2.8.2
-python-debian===0.1.36ubuntu1
 python-dotenv==0.20.0
 python-firebase==1.2
 python-magic==0.4.25
