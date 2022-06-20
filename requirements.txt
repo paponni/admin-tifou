@@ -170,7 +170,7 @@ python-magic==0.4.25
 python-multipart==0.0.5
 python-xlib==0.23
 python-xmp-toolkit==2.0.1
-pytz==2018.4
+pytz
 pyxdg==0.26
 PyYAML
 pyzmq==22.3.0
