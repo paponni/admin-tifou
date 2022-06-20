@@ -4,7 +4,6 @@ aiosignal==1.2.0
 aiostream==0.4.4
 anyio==3.5.0
 apng==0.3.4
-apturl
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.5.0
